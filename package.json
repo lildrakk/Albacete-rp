@@ -1,4 +1,7 @@
-{
+"dependencies": {
+  "discord.js": "^14.15.3",
+  "dotenv": "^16.4.5"
+}{
   "name": "albacete-rp",
   "version": "1.0.0",
   "description": "Bot de Discord para cuestionarios RP",
@@ -10,3 +13,4 @@
     "discord.js": "^14.14.1"
   }
 }
+// Forzar instalación de dotenv
