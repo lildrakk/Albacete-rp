@@ -1,13 +1,12 @@
 {
-  "name": "albacete-rp-bot",
+  "name": "albacete-rp",
   "version": "1.0.0",
+  "description": "Bot de Discord para cuestionarios RP",
   "main": "index.js",
-  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.15.3",
-    "dotenv": "^16.4.5"
+    "discord.js": "^14.14.1"
   }
 }
