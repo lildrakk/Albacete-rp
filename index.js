@@ -207,3 +207,4 @@ client.on('messageCreate', async (message) => {
 });
 
 client.login(process.env.DISCORD_TOKEN);
+// Última revisión: 17 dic
